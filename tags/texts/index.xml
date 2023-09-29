@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>texts on Learn to invest</title>
+    <link>https://learntoinvest.github.io/tags/texts/</link>
+    <description>Recent content in texts on Learn to invest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2023 07:19:31 +0000</lastBuildDate><atom:link href="https://learntoinvest.github.io/tags/texts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>https://learntoinvest.github.io/archive/reading_list/</link>
+      <pubDate>Fri, 29 Sep 2023 07:19:31 +0000</pubDate>
+      
+      <guid>https://learntoinvest.github.io/archive/reading_list/</guid>
+      <description>The Five Rules for Successful Stock Investing</description>
+    </item>
+    
+  </channel>
+</rss>
