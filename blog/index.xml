@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn to invest</title>
-    <link>https://learntoinvest.github.io/</link>
-    <description>Recent content on Learn to invest</description>
+    <title>Blogs on Learn to invest</title>
+    <link>https://learntoinvest.github.io/blog/</link>
+    <description>Recent content in Blogs on Learn to invest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 03:38:55 +0000</lastBuildDate><atom:link href="https://learntoinvest.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Sep 2023 03:38:55 +0000</lastBuildDate><atom:link href="https://learntoinvest.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on Balance Sheet</title>
       <link>https://learntoinvest.github.io/blog/balance_sheet/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://learntoinvest.github.io/blog/balance_sheet/</guid>
       <description>TL;DR 🔗 Shows what the company owns (asset) and what it ows (liability) Difference between assets and liabilities is equity Assets must always balance with liabilities  What is a balance sheet? 🔗Balance sheet is sometimes referred to as the statement of financial position. It lists the assets and liabilities that a company has. The difference between assets and liabilities is the shareholder&amp;rsquo;s equity. Equity represetns the value of the money that shareholders have invested in the firm.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://learntoinvest.github.io/about/</link>
-      <pubDate>Fri, 29 Sep 2023 02:46:06 +0000</pubDate>
-      
-      <guid>https://learntoinvest.github.io/about/</guid>
-      <description>I document what I have learnt about investing here. Hopefully, you will find it useful, cheers!</description>
     </item>
     
   </channel>
